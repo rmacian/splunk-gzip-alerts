@@ -1,0 +1,271 @@
+[app/ui]
+version = 6.5.0
+modtime = 1481617331.079035000
+
+[app/launcher]
+version = 6.5.0
+modtime = 1481617331.081313000
+
+[app/package/check_for_updates]
+version = 6.5.0
+modtime = 1481617331.082976000
+
+[user-prefs/role_h%40h_role]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.265891000
+
+[user-prefs/role_jasper_role]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.266102000
+
+[user-prefs/role_l1monitoring_role]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.266307000
+
+[user-prefs/role_my_roel]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.266521000
+
+[user-prefs/role_nagios_role]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.266723000
+
+[user-prefs/role_neosdp-generic_role]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.266930000
+
+[user-prefs/role_neosdp_role]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.267137000
+
+[user-prefs/role_neosdptugo_role]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.267341000
+
+[user-prefs/role_owd_role]
+owner = nobody
+version = 6.0.4
+modtime = 1412586576.643527000
+
+[user-prefs/role_power]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.267745000
+
+[user-prefs/role_sm-payment_role]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.267947000
+
+[user-prefs/role_tugo_role]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.268158000
+
+[user-prefs/role_tugo_role_extra]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.268361000
+
+[user-prefs/role_user_rt_sch]
+owner = nobody
+version = 6.0.2
+modtime = 1396434268.268562000
+
+[user-prefs/role_gvp_role]
+owner = admin
+version = 6.3.3
+modtime = 1469180277.552947000
+
+[user-prefs/role_sm2m_role]
+owner = admin
+version = 6.3.3
+modtime = 1467636052.029774000
+
+[user-prefs/role_sm2m_ob_czech]
+owner = admin
+version = 6.0.4
+modtime = 1401695291.106980000
+
+[user-prefs/role_gvp_ro_role]
+owner = admin
+version = 6.3.3
+modtime = 1469180198.892539000
+
+[user-prefs/role_owd_sc]
+owner = admin
+version = 6.0.4
+modtime = 1407502102.380407000
+
+[user-prefs/role_jetsetme_role]
+owner = admin
+version = 6.1.7
+modtime = 1448275659.499548000
+
+[user-prefs/role_sm2m_producto]
+owner = admin
+version = 6.0.7
+modtime = 1421939629.488940000
+
+[user-prefs/role_sm2m_qa]
+owner = admin
+version = 6.0.7
+modtime = 1421939665.101255000
+
+[user-prefs/role_sm2m_desarrollo_role]
+owner = admin
+version = 6.0.7
+modtime = 1421940097.657662000
+
+[user-prefs/role_sm2m_producto_role]
+owner = admin
+version = 6.0.7
+modtime = 1422435851.309716000
+
+[user-prefs/role_sm2m_qa_role]
+owner = admin
+version = 6.0.7
+modtime = 1422436907.164613000
+
+[user-prefs/role_sm2m_spain_role]
+owner = admin
+version = 6.0.7
+modtime = 1422535619.011977000
+
+[user-prefs/role_sm2m_desarrolo_role]
+owner = admin
+version = 6.0.7
+modtime = 1422435872.724509000
+
+[user-prefs/role_sm2m_mexico_role]
+owner = admin
+version = 6.0.7
+modtime = 1422535594.947162000
+
+[user-prefs/role_sm2m_argentina_role]
+owner = admin
+version = 6.0.7
+modtime = 1422535502.618635000
+
+[user-prefs/role_sm2m_brasil_role]
+owner = admin
+version = 6.0.7
+modtime = 1422535532.887764000
+
+[user-prefs/role_sm2m_chile_role]
+owner = admin
+version = 6.0.7
+modtime = 1422535583.036281000
+
+[user-prefs/role_pconnect_role]
+owner = admin
+version = 6.1.7
+modtime = 1429700192.251764000
+
+[user-prefs/role_ccb_role]
+owner = admin
+version = 6.1.7
+modtime = 1433840486.493684000
+
+[user-prefs/role_gvp_cl_ro_role]
+owner = admin
+version = 6.1.7
+modtime = 1453395664.259020000
+
+[user-prefs/role_gvp_br_ro_role]
+owner = admin
+version = 6.1.7
+modtime = 1453395627.994189000
+
+[user-prefs/role_gvp_global_ro_role]
+owner = admin
+version = 6.1.7
+modtime = 1441007147.067314000
+
+[user-prefs/role_awazza_role]
+owner = admin
+version = 6.1.7
+modtime = 1446025903.937939000
+
+[user-prefs/role_sm2m_ro_role]
+owner = admin
+version = 6.3.3
+modtime = 1467635994.203965000
+
+[user-prefs/role_sm2m_gtc_role]
+owner = admin
+version = 6.1.7
+modtime = 1443603063.549159000
+
+[user-prefs/role_dsmctools_role]
+owner = admin
+version = 6.1.7
+modtime = 1448451956.510313000
+
+[user-prefs/role_rcse_role]
+owner = admin
+version = 6.1.7
+modtime = 1450785527.178099000
+
+[user-prefs/role_iot_role]
+owner = admin
+version = 6.1.7
+modtime = 1456921495.141698000
+
+[user-prefs/role_mobileconnect_role]
+owner = admin
+version = 6.1.7
+modtime = 1455710382.974843000
+
+[user-prefs/role_mobileconnect_ro_role]
+owner = admin
+version = 6.1.7
+modtime = 1455723989.269862000
+
+[user-prefs/role_mc_ro_role]
+owner = admin
+version = 6.1.7
+modtime = 1455719475.574057000
+
+[user-prefs/role_gvp_iptv_ro_role]
+owner = admin
+version = 6.1.7
+modtime = 1456480972.350915000
+
+[user-prefs/role_admin]
+owner = admin
+version = 6.1.7
+modtime = 1457028880.367318000
+
+[user-prefs/role_admin_delete]
+owner = nobody
+version = 6.3.3
+modtime = 1475682483.908850000
+
+[user-prefs/role_telematic]
+owner = nobody
+version = 6.1.7
+modtime = 1457364245.636254000
+
+[user-prefs/role_telematic_role]
+owner = admin
+version = 6.3.3
+modtime = 1466064080.257839000
+
+[user-prefs/role_druida_role]
+owner = admin
+version = 6.3.3
+modtime = 1469433354.171720000
+
+[user-prefs/role_mobileconnect_es_role]
+owner = admin
+version = 6.3.3
+modtime = 1485340620.430429000
